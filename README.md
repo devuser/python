@@ -1,2 +1,4 @@
 # python
-Python notes
+
+1. 记录`Python`为主的项目研发过程中的笔记
+2. 工具化的脚本
