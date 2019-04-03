@@ -1,4 +1,4 @@
-![Python知识图谱.svg](./思维导图/Python知识图谱.svg)
+![Python知识图谱.jpg](./思维导图/Python知识图谱.jpg)
 
 从`Python 2.3`开始使用至今，整理历年经验所得，知识图谱，希望有助于学习`Python`的同学。
 
